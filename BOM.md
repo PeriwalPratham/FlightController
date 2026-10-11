@@ -65,7 +65,7 @@
 | USBLC6-2SC6 | — | 1 | $0.00 | $0.00 | — |
 | 16MHz | — | 1 | $0.00 | $0.00 | — |
 | **Parts subtotal** | — | — | — | **$0.00** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$0.00** | — |
+| **Tax & shipping** | — | — | — | **$62.00** | — |
+| **Total** | — | — | — | **$62.00** | — |
 
-$65.00 left of the tier's funding.
+$3.00 left of the tier's funding.
